@@ -56,7 +56,7 @@
 **Стек:** HTML, CSS.  
 **Результат:** [Сайт](https://freelandos.github.io/3_Coursework_Noemi/), [Код](https://github.com/freelandos/3_Coursework_Noemi)
 
-:star: **VKinder** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/freelandos/2_Coursework_VKinder/tree/main/Task)  
+:star: **VKinder** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/freelandos/2_Coursework_VKinder/blob/main/Task/README.md)  
 **Задача:** создать бота для взаимодействия с базами данных социальной сети ВКонтакте. Бот должен предлагать различные варианты людей для знакомств в виде диалога с пользователем.  
 **Стек:** Python, PostgreSQL.  
 **Результат:** [Код](https://github.com/freelandos/2_Coursework_VKinder)
