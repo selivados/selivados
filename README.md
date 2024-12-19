@@ -1,11 +1,22 @@
-<h1 align="center">Приветствую 👋, меня зовут Антон</h1>
-<h3 align="center">Fullstack-разработчик на Python</h3>
+<div id="header" align="center">
+  <h1>Приветствую, меня зовут Антон</h1>
+  <h3>Fullstack-разработчик на Python</h3>
+</div>
+<div id="socials" align="center">
+  <a href="linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="twitter-url"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
+  <a href="https://t.me/freelandos"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;  
+</div>
+<br>
+<div id="banner" align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ---
 
-### :hammer_and_wrench: Languages and Tools:
+### :hammer_and_wrench: Языки и инструменты:
 
-<div>
+<div id="tools">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/></a>&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/ru/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/></a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/></a>&nbsp;&nbsp;
@@ -24,7 +35,7 @@
 
 ---
 
-### :briefcase: Projects:
+### :briefcase: Проекты:
   
 :star: **Облачное хранилище My Cloud** (дипломный проект) :small_orange_diamond: [Задание](https://github.com/freelandos/Diplom_MyCloud/blob/main/TASK.md)  
 **Задача:** создать веб-приложение, которое будет работать как облачное хранилище.  
@@ -68,7 +79,7 @@
 
 ---
 
-### :trophy: Certificates:
+### :trophy: Сертификаты:
 
 **Нетология**  
 [Fullstack-разработчик на Python](https://disk.yandex.ru/i/-ldTJWWONLxySg)  
