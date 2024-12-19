@@ -82,4 +82,4 @@
 [Git - система контроля версий](https://disk.yandex.ru/i/VOVyePUNBPgDTA)  
 [Основы языка программирования Python](https://disk.yandex.ru/i/uPEl47idqVMVuw)
 
-["Поколение Python": курс для начинающих](https://stepik.org/cert/1974403)
+["Поколение Python": курс для начинающих](https://disk.yandex.ru/i/U1L9pFsb4uEjUg)
