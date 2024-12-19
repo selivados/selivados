@@ -70,6 +70,7 @@
 
 ### :trophy: Certificates:
 
+**Нетология**  
 [Fullstack-разработчик на Python](https://disk.yandex.ru/i/-ldTJWWONLxySg)  
 [React: Библиотека №1 в современной фронтенд-разработке](https://disk.yandex.ru/i/xjZWRaXCImOjOQ)  
 [Расширенный инструментарий JavaScript в браузере](https://disk.yandex.ru/i/m9DUn2gQn4eN4w)  
@@ -82,4 +83,5 @@
 [Git - система контроля версий](https://disk.yandex.ru/i/VOVyePUNBPgDTA)  
 [Основы языка программирования Python](https://disk.yandex.ru/i/uPEl47idqVMVuw)
 
+**Stepik**  
 ["Поколение Python": курс для начинающих](https://disk.yandex.ru/i/U1L9pFsb4uEjUg)
