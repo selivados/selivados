@@ -80,4 +80,6 @@
 [Профессиональная работа с Python](https://disk.yandex.ru/i/LcbJOYoP8RumKA)  
 [Базы данных для python-разработчиков](https://disk.yandex.ru/i/zkamWHIT4yicTQ)  
 [Git - система контроля версий](https://disk.yandex.ru/i/VOVyePUNBPgDTA)  
-[Основы языка программирования Python](https://disk.yandex.ru/i/uPEl47idqVMVuw)  
+[Основы языка программирования Python](https://disk.yandex.ru/i/uPEl47idqVMVuw)
+
+["Поколение Python": курс для начинающих](https://stepik.org/cert/1974403)
