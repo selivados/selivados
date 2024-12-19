@@ -78,6 +78,6 @@
 [HTML и CSS: основы веб-верстки](https://disk.yandex.ru/i/7goWjn4z95DW9g)  
 [Django: создание функциональных веб-приложений](https://disk.yandex.ru/i/2SAnovn6WI6yxw)  
 [Профессиональная работа с Python](https://disk.yandex.ru/i/LcbJOYoP8RumKA)  
-[Базы данных для python-разработчиков](https://disk.yandex.ru/i/zkamWHIT4yicTQ)
+[Базы данных для python-разработчиков](https://disk.yandex.ru/i/zkamWHIT4yicTQ)  
 [Git - система контроля версий](https://disk.yandex.ru/i/VOVyePUNBPgDTA)  
 [Основы языка программирования Python](https://disk.yandex.ru/i/uPEl47idqVMVuw)  
