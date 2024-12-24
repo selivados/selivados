@@ -58,9 +58,9 @@
 **Результат:** [Сайт](https://freelandos.github.io/5_Coursework_RetroGame/), [Код](https://github.com/freelandos/5_Coursework_RetroGame)
 
 :star: **Облачное хранилище WebCloud (UI)** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/freelandos/4_Coursework_WebCloudUI/blob/main/README.md)  
-**Задача:** создать программу для резервного копирования фотографий из профиля (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс Диск.  
+**Задача:** создать веб-приложение для резервного копирования фотографий из профиля (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс Диск.  
 **Стек:** JavaScript, HTML, CSS.  
-**Результат:** [Код](https://github.com/freelandos/4_Coursework_WebCloudUI)
+**Результат:** [Сайт](https://freelandos.github.io/4_Coursework_WebCloudUI/), [Код](https://github.com/freelandos/4_Coursework_WebCloudUI)
 
 :star: **Noemi** (курсовой проект).  
 **Задача:** сверстать адаптивные макеты сайта для различных устройств (настольные компьютеры, планшеты, смартфоны).  
