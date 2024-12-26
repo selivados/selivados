@@ -62,7 +62,7 @@
 **Стек:** JavaScript, HTML, CSS.  
 **Результат:** [Сайт](https://freelandos.github.io/4_Coursework_WebCloudUI/), [Код](https://github.com/freelandos/4_Coursework_WebCloudUI)
 
-:star: **Noemi** (курсовой проект).  
+:star: **Noemi** (курсовой проект). :small_orange_diamond: [Задание](https://github.com/freelandos/3_Coursework_Noemi/blob/main/README.md)  
 **Задача:** сверстать адаптивные макеты сайта для различных устройств (настольные компьютеры, планшеты, смартфоны).  
 **Стек:** HTML, CSS.  
 **Результат:** [Сайт](https://freelandos.github.io/3_Coursework_Noemi/), [Код](https://github.com/freelandos/3_Coursework_Noemi)
