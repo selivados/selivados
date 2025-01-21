@@ -2,10 +2,16 @@
   <h1>Приветствую, меня зовут Антон</h1>
   <h3>Fullstack-разработчик на Python</h3>
 </div>
-<div id="socials" align="center">
+<div id="contacts" align="center">
+  <!--
   <a href="linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="twitter-url"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
-  <a href="https://t.me/freelandos"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;  
+  -->
+  <a href="https://t.me/freelandos"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
+  <a href="mailto:freelandos@yandex.ru"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>&nbsp;
+</div>
+<div id="statistics" align="center">
+  <img src="https://komarev.com/ghpvc/?username=freelandos&style=for-the-badge&color=blue"/>
 </div>
 <br>
 <div id="banner" align="center">
