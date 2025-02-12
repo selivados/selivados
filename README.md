@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Приветствую, меня зовут Антон</h1>
+  <h1>Приветствую 👋, меня зовут Антон</h1>
   <h3>Fullstack-разработчик на Python</h3>
 </div>
 
@@ -37,7 +37,6 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS"/></a>&nbsp;&nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/></a>&nbsp;&nbsp;
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" width="40" height="40" alt="Django" title="Django"/></a>&nbsp;&nbsp;
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" title="NodeJS"/></a>&nbsp;&nbsp;
     <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/></a>&nbsp;&nbsp;
     <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux" title="Redux"/></a>&nbsp;&nbsp;
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"/></a>&nbsp;&nbsp;
