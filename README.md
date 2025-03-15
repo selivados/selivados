@@ -106,6 +106,7 @@
   [Основы языка программирования Python](https://drive.google.com/file/d/1j0IC2Xc8D6i-f0q-p8uOYVMlknoNyO3K/view?usp=drive_link)
   
   **Stepik**  
+  ["Поколение Python": курс для продвинутых](https://drive.google.com/file/d/1JDOboSMsbpzusHO8jvVJ_jICY2iw_5gG/view?usp=drive_link)  
   ["Поколение Python": курс для начинающих](https://drive.google.com/file/d/1V5lwVWQcj4i2orzHDexGbPHsnLmx-Td9/view?usp=drive_link)
   
 </details>
