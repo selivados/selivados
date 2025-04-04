@@ -47,42 +47,42 @@
 <details>
   <summary><h2>💼 Проекты:</h2></summary>
   
-  ⭐ **Облачное хранилище My Cloud** (дипломный проект) :small_orange_diamond: [Задание](https://github.com/selivados/Diplom_MyCloud/blob/main/TASK.md)  
+  ⭐ **Облачное хранилище My Cloud** :small_orange_diamond: [Задание](https://github.com/selivados/Diplom_MyCloud/blob/main/TASK.md)  
   **Задача:** создать веб-приложение, которое будет работать как облачное хранилище.  
   **Стек:** Python, Django, Django REST framework, PostgreSQL, JavaScript, TypeScript, HTML, CSS, Bootstrap, React, React Router, Redux, Redux Toolkit, ESLint.  
   **Результат:** Сайт, [Код](https://github.com/selivados/Diplom_MyCloud)
   
-  ⭐ **Интернет-магазин обуви Bosa Noga** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/selivados/7_Coursework_BosaNoga/blob/main/README.md)  
-  **Задача:** создать веб-приложение, всеми основными функциями которого можно пользоваться.  
+  ⭐ **Интернет-магазин обуви Bosa Noga** :small_orange_diamond: [Задание](https://github.com/selivados/7_Coursework_BosaNoga/blob/main/README.md)  
+  **Задача:** создать веб-приложение интернет-магазина, всеми основными функциями которого можно пользоваться.  
   **Стек:** JavaScript, TypeScript, HTML, CSS, React, React Router, Redux, Redux Toolkit, ESLint.  
   **Результат:** [Сайт](https://bosanoga-frontend.onrender.com/), [Код](https://github.com/selivados/7_Coursework_BosaNoga)
   
-  ⭐ **Chaos Organizer** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/selivados/6_Coursework_ChaosOrganizer/blob/main/README.md)  
+  ⭐ **Chaos Organizer** :small_orange_diamond: [Задание](https://github.com/selivados/6_Coursework_ChaosOrganizer/blob/main/README.md)  
   **Задача:** создать бота, предназначенного для хранения информации, поиска и других сервисов (напоминания, уведомления и интеграции с внешними сервисами).  
   **Стек:** JavaScript, HTML, CSS, Webpack, Babel, ESLint, GitHub Actions.  
   **Результат:** [Сайт](https://selivados.github.io/6_Coursework_ChaosOrganizer/), [Код](https://github.com/selivados/6_Coursework_ChaosOrganizer)
   
-  ⭐ **Retro Game** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/selivados/5_Coursework_RetroGame/blob/main/README.md)  
+  ⭐ **Retro Game** :small_orange_diamond: [Задание](https://github.com/selivados/5_Coursework_RetroGame/blob/main/README.md)  
   **Задача:** создать двухмерную игру в стиле фэнтези, где игроку предстоит выставлять своих персонажей против персонажей нечисти.  
   **Стек:** JavaScript, HTML, CSS, Webpack, Babel, ESLint, Jest, GitHub Actions.  
   **Результат:** [Сайт](https://selivados.github.io/5_Coursework_RetroGame/), [Код](https://github.com/selivados/5_Coursework_RetroGame)
   
-  ⭐ **Облачное хранилище WebCloud (UI)** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/selivados/4_Coursework_WebCloudUI/blob/main/README.md)  
+  ⭐ **Облачное хранилище WebCloud (UI)** :small_orange_diamond: [Задание](https://github.com/selivados/4_Coursework_WebCloudUI/blob/main/README.md)  
   **Задача:** создать веб-приложение для резервного копирования фотографий из профиля (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс Диск.  
   **Стек:** JavaScript, HTML, CSS.  
   **Результат:** [Сайт](https://selivados.github.io/4_Coursework_WebCloudUI/), [Код](https://github.com/selivados/4_Coursework_WebCloudUI)
   
-  ⭐ **Noemi** (курсовой проект). :small_orange_diamond: [Задание](https://github.com/selivados/3_Coursework_Noemi/blob/main/README.md)  
+  ⭐ **Noemi** :small_orange_diamond: [Задание](https://github.com/selivados/3_Coursework_Noemi/blob/main/README.md)  
   **Задача:** сверстать адаптивные макеты сайта для различных устройств (настольные компьютеры, планшеты, смартфоны).  
   **Стек:** HTML, CSS.  
   **Результат:** [Сайт](https://selivados.github.io/3_Coursework_Noemi/), [Код](https://github.com/selivados/3_Coursework_Noemi)
   
-  ⭐ **VKinder** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/selivados/2_Coursework_VKinder/blob/main/Task/README.md)  
+  ⭐ **VKinder** :small_orange_diamond: [Задание](https://github.com/selivados/2_Coursework_VKinder/blob/main/Task/README.md)  
   **Задача:** создать бота для взаимодействия с базами данных социальной сети ВКонтакте. Бот должен предлагать различные варианты людей для знакомств в виде диалога с пользователем.  
   **Стек:** Python, PostgreSQL.  
   **Результат:** [Код](https://github.com/selivados/2_Coursework_VKinder)
   
-  ⭐ **Резервное копирование** (курсовой проект) :small_orange_diamond: [Задание](https://github.com/selivados/1_Coursework_Backup_VK/blob/main/README.md)  
+  ⭐ **Резервное копирование** :small_orange_diamond: [Задание](https://github.com/selivados/1_Coursework_Backup_VK/blob/main/README.md)  
   **Задача:** создать программу для резервного копирования фотографий с профиля (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс Диск, Google Drive.  
   **Стек:** Python  
   **Результат:** [Код](https://github.com/selivados/1_Coursework_Backup_VK)
