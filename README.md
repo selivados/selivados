@@ -1,3 +1,7 @@
+<div id="statistics">
+  <img src="https://komarev.com/ghpvc/?username=selivados&color=brightgreen&style=flat" alt="Profile views"/>
+</div>
+
 <div id="header" align="center">
   <h1>Приветствую 👋, меня зовут Антон</h1>
   <h3>Fullstack-разработчик на Python</h3>
@@ -8,12 +12,8 @@
   <a href="linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="twitter-url"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>&nbsp;
   -->
-  <a href="https://t.me/selivados"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
-  <a href="mailto:selivados@gmail.com"><img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-</div>
-
-<div id="statistics" align="center">
-  <img src="https://komarev.com/ghpvc/?username=selivados&style=for-the-badge&color=blue"/>
+  <a href="https://t.me/selivados"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;
+  <a href="mailto:selivados@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </div>
 
 <br/>
@@ -47,42 +47,42 @@
 <details>
   <summary><h2>💼 Проекты:</h2></summary>
   
-  ⭐ **Облачное хранилище My Cloud** :small_orange_diamond: [Задание](https://github.com/selivados/Diplom_MyCloud/blob/main/TASK.md)  
+  ⭐ **Облачное хранилище My Cloud**  
   **Задача:** создать веб-приложение, которое будет работать как облачное хранилище.  
   **Стек:** Python, Django, Django REST framework, PostgreSQL, JavaScript, TypeScript, HTML, CSS, Bootstrap, React, React Router, Redux, Redux Toolkit, ESLint.  
   **Результат:** Сайт, [Код](https://github.com/selivados/Diplom_MyCloud)
   
-  ⭐ **Интернет-магазин обуви Bosa Noga** :small_orange_diamond: [Задание](https://github.com/selivados/7_Coursework_BosaNoga/blob/main/README.md)  
+  ⭐ **Интернет-магазин обуви Bosa Noga**  
   **Задача:** создать веб-приложение интернет-магазина, всеми основными функциями которого можно пользоваться.  
   **Стек:** JavaScript, TypeScript, HTML, CSS, React, React Router, Redux, Redux Toolkit, ESLint.  
   **Результат:** [Сайт](https://bosanoga-frontend.onrender.com/), [Код](https://github.com/selivados/7_Coursework_BosaNoga)
   
-  ⭐ **Chaos Organizer** :small_orange_diamond: [Задание](https://github.com/selivados/6_Coursework_ChaosOrganizer/blob/main/README.md)  
+  ⭐ **Chaos Organizer**  
   **Задача:** создать бота, предназначенного для хранения информации, поиска и других сервисов (напоминания, уведомления и интеграции с внешними сервисами).  
   **Стек:** JavaScript, HTML, CSS, Webpack, Babel, ESLint, GitHub Actions.  
   **Результат:** [Сайт](https://selivados.github.io/6_Coursework_ChaosOrganizer/), [Код](https://github.com/selivados/6_Coursework_ChaosOrganizer)
   
-  ⭐ **Retro Game** :small_orange_diamond: [Задание](https://github.com/selivados/5_Coursework_RetroGame/blob/main/README.md)  
+  ⭐ **Retro Game**  
   **Задача:** создать двухмерную игру в стиле фэнтези, где игроку предстоит выставлять своих персонажей против персонажей нечисти.  
   **Стек:** JavaScript, HTML, CSS, Webpack, Babel, ESLint, Jest, GitHub Actions.  
   **Результат:** [Сайт](https://selivados.github.io/5_Coursework_RetroGame/), [Код](https://github.com/selivados/5_Coursework_RetroGame)
   
-  ⭐ **Облачное хранилище WebCloud (UI)** :small_orange_diamond: [Задание](https://github.com/selivados/4_Coursework_WebCloudUI/blob/main/README.md)  
+  ⭐ **Облачное хранилище WebCloud (UI)**  
   **Задача:** создать веб-приложение для резервного копирования фотографий из профиля (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс Диск.  
   **Стек:** JavaScript, HTML, CSS.  
   **Результат:** [Сайт](https://selivados.github.io/4_Coursework_WebCloudUI/), [Код](https://github.com/selivados/4_Coursework_WebCloudUI)
   
-  ⭐ **Noemi** :small_orange_diamond: [Задание](https://github.com/selivados/3_Coursework_Noemi/blob/main/README.md)  
+  ⭐ **Noemi**  
   **Задача:** сверстать адаптивные макеты сайта для различных устройств (настольные компьютеры, планшеты, смартфоны).  
   **Стек:** HTML, CSS.  
   **Результат:** [Сайт](https://selivados.github.io/3_Coursework_Noemi/), [Код](https://github.com/selivados/3_Coursework_Noemi)
   
-  ⭐ **VKinder** :small_orange_diamond: [Задание](https://github.com/selivados/2_Coursework_VKinder/blob/main/Task/README.md)  
+  ⭐ **VKinder**  
   **Задача:** создать бота для взаимодействия с базами данных социальной сети ВКонтакте. Бот должен предлагать различные варианты людей для знакомств в виде диалога с пользователем.  
   **Стек:** Python, PostgreSQL.  
   **Результат:** [Код](https://github.com/selivados/2_Coursework_VKinder)
   
-  ⭐ **Резервное копирование** :small_orange_diamond: [Задание](https://github.com/selivados/1_Coursework_Backup_VK/blob/main/README.md)  
+  ⭐ **Резервное копирование**  
   **Задача:** создать программу для резервного копирования фотографий с профиля (аватарок) пользователя ВКонтакте в облачное хранилище Яндекс Диск, Google Drive.  
   **Стек:** Python  
   **Результат:** [Код](https://github.com/selivados/1_Coursework_Backup_VK)
