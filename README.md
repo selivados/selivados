@@ -1,5 +1,5 @@
 <div id="statistics">
-  <img src="https://komarev.com/ghpvc/?username=selivados&color=brightgreen&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=selivados&color=brightgreen&style=flat" alt="Profile views"/>
 </div>
 
 <div id="header" align="center">
