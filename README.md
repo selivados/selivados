@@ -87,6 +87,15 @@
   **Стек:** Python  
   **Результат:** [Код](https://github.com/selivados/1_Coursework_Backup_VK)
   
+  ---
+  
+  <h3>Тестовые задания:</h3>
+  
+  ⭐ **Сервис транслитерации**  
+  **Задача:** создать веб-приложение, которое выполняет транслитерацию текста. Реализовать интерактивную работу через веб-интерфейс, а также API-эндпоинты для интеграции.  
+  **Стек:** Python, FastAPI, MongoDB, JavaScript, HTML, CSS, React.  
+  **Результат:** [Код](https://github.com/selivados/Transliteration_Service)
+  
 </details>
 
 <details>
